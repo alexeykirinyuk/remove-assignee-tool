@@ -1,5 +1,5 @@
-module github.com/alexeykirinyuk/jira-tools
+module github.com/alexeykirinyuk/remove-assignee-tool
 
-go 1.13
+go 1.14
 
 require github.com/andygrunwald/go-jira v1.12.0

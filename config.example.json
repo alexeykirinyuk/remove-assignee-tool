@@ -1,0 +1,5 @@
+{
+    "login": "login",
+    "token": "password or token(https://id.atlassian.com/manage/api-tokens)",
+    "domain": "domain"
+}
